@@ -63,3 +63,12 @@ body {
   color: #926239;
   background-color: #f9f9f9;
 }
+@media screen and (min-width: 576px) { 
+  .footer__1section {
+    width: 100%;
+  }
+  .footer__2section {
+    width: 100%;
+  }
+}
+/* Начиная с 576px,они становятся друг под другом. */
